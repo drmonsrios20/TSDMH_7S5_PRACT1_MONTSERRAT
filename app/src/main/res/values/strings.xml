@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_PRACT1_MONTSERRAT</string>
+    <string name="TITULO">DATOS PERSONALES</string>
+    <string name="NOMBRE">ESTEFANY MONTSERRAT DOMINGUEZ RIOS</string>
+    <string name="EDAD">23 AÑOS</string>
+    <string name="CARRERA">ING.SISTEMAS COMPUTACIONALES</string>
+    <string name="MATRICULA">236020029</string>
+    <string name="GRUPO">7S5</string>
+</resources>
